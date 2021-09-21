@@ -1,0 +1,7 @@
+site_name: Neuranimation Package
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - About: about.md
+  - PFNN: pfnn.md
+theme: readthedocs
